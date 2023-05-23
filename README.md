@@ -1,2 +1,2 @@
 # calculadora
-calculadora simples
+Calculadora simples com interface
