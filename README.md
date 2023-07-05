@@ -1,2 +1,3 @@
-# calculadora
-Calculadora simples com interface
+# Calculadora
+
+  Calculadora com interface que realiza as funções básicas
