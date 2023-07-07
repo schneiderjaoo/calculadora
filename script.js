@@ -3,7 +3,7 @@ function inserir(num){
 }
 
 function clean(){
-    document.querySelector(".tela").innerHTML ="";
+    document.querySelector(".tela").innerHTML = "";
 }
 
 function back(){
